@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "129247267697",
+    "project_id": "fms100-e5a5c",
+    "storage_bucket": "fms100-e5a5c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129247267697:android:9e3e089fa488d45d5f84d0",
+        "android_client_info": {
+          "package_name": "com.example.fms100"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANf1rhFnzdi7CkMZ70c6Sm5JKhD6pctSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
